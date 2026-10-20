@@ -1,20 +1,11 @@
-# Hey, I'm Kiran 👋
+# Hello
 
-I'm Kiran. Having lived in Mumbai, Konkan and Dublin, three places shaped by the coast, I've grown curious about how people connect with their surroundings, share natural resources and adapt to environmental change.
-
-### 🌿 What I've been involved in
-- Contributed to climate adaptation work through the Climate Ireland Adaptation Network.
-- Worked on biodiversity and sustainability initiatives at MSD Ireland.
-- Worked on **JalSaksham**, a community-focused flood preparedness initiative.
-- Became a **Global Citizen Scholar** with the Ban Ki-moon Foundation.
-- Started documenting Konkan's wildflowers through photography.
+I am **Kiran**. Born and raised in Mumbai, I spent my summers at my grandparents’ home in Konkan before moving to Dublin for a while. Different places, but one thing connects them all: the coast.
+Somewhere during playing in the sand and crag hunting, I became interested in how people live with their environments, share natural resources and respond to environmental change. That curiosity has gradually drawn me towards environmental governance, biodiversity and community resilience.
 
 ### 🌼 A little about me
-- A flower enthusiast, fascinated by their place in nature, culture and everyday life.
-- Love train journeys and try to minimise air travel where practical.
-- Enjoy photography, writing, travelling and discovering what makes places unique.
-- Could spend hours skating; played football during my undergraduate years.
-- Learning HTML and CSS while building my portfolio.
+My background is in Mechanical Engineering and Business Management, and my path has taken me through project management, sustainability and biodiversity initiatives, and community-focused climate resilience work. 
+Outside research, I'm usually photographing flowers, planning a train journey, writing, travelling or trying to convince myself that learning HTML and CSS is a perfectly reasonable way to spend an afternoon.
 
 ### 🌍 What I'm exploring
 I'm exploring **PhD opportunities** in:
@@ -25,7 +16,6 @@ I'm exploring **PhD opportunities** in:
 I'm especially interested in research connecting environmental change, local knowledge and the communities affected by it.
 
 ### 📚 Currently Reading & Thinking About
-A monthly collection of books, talks and articles shaping my thinking on climate adaptation, environmental governance, biodiversity and community resilience. Updated monthly as I discover new ideas and questions.
 
 - 📖 *Clearer Thinking on Climate and the Environment* — Hannah Ritchie
 - 📖 *Six Degrees: Our Future on a Hotter Planet* — Mark Lynas
