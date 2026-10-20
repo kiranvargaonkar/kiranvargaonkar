@@ -1,4 +1,4 @@
-# Hey |˶˙ᵕ˙ )ﾉﾞ
+# Hey, I'm Kiran 👋
 
 I'm Kiran. Having lived in Mumbai, Konkan and Dublin, three places shaped by the coast, I've grown curious about how people connect with their surroundings, share natural resources and adapt to environmental change.
 
@@ -12,9 +12,9 @@ I'm Kiran. Having lived in Mumbai, Konkan and Dublin, three places shaped by the
 ### 🌼 A little about me
 - A flower enthusiast, fascinated by their place in nature, culture and everyday life.
 - Love train journeys and try to minimise air travel where practical.
-- Enjoy photography, writing, travelling and learning about new places.
+- Enjoy photography, writing, travelling and discovering what makes places unique.
 - Could spend hours skating; played football during my undergraduate years.
-- Learning HTML and CSS while building my portfolio. 
+- Learning HTML and CSS while building my portfolio.
 
 ### 🌍 What I'm exploring
 I'm exploring **PhD opportunities** in:
@@ -22,7 +22,16 @@ I'm exploring **PhD opportunities** in:
 - Coastal ecosystems and biodiversity
 - Climate adaptation and community resilience
 
-I'm particularly interested in research connecting environmental change, local knowledge and the communities affected by it.
+I'm especially interested in research connecting environmental change, local knowledge and the communities affected by it.
+
+### 📚 Currently Reading & Thinking About
+A monthly collection of books, talks and articles shaping my thinking on climate adaptation, environmental governance, biodiversity and community resilience. Updated monthly as I discover new ideas and questions.
+
+- 📖 *Clearer Thinking on Climate and the Environment* — Hannah Ritchie
+- 📖 *Six Degrees: Our Future on a Hotter Planet* — Mark Lynas
+- 🎥 [Mongabay: Sand mining, environmental change and community impacts](https://youtu.be/q9wQ-Th35Mg)
+- 🎥 [Maarten van Aalst: Climate resilience and adaptation](https://youtu.be/uj-xQENGS9E)
+
 
 ### 🔗 Find me around the web
 - 🌿 [Portfolio](https://kiranvargaonkar.github.io/)
