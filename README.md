@@ -17,8 +17,8 @@ I'm especially interested in research connecting environmental change, local kno
 
 ### 📚 Currently Reading & Thinking About
 
-- 📖 *Clearer Thinking on Climate and the Environment* — Hannah Ritchie
-- 📖 *Six Degrees: Our Future on a Hotter Planet* — Mark Lynas
+- 📖 *Clearer Thinking on Climate and the Environment* - Hannah Ritchie
+- 📖 *Six Degrees: Our Future on a Hotter Planet* - Mark Lynas
 - 🎥 [Mongabay: Sand mining, environmental change and community impacts](https://youtu.be/q9wQ-Th35Mg)
 - 🎥 [Maarten van Aalst: Climate resilience and adaptation](https://youtu.be/uj-xQENGS9E)
 
