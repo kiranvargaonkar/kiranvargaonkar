@@ -1,4 +1,4 @@
-## Hello ヾ(＾ ∇ ＾).
+## Hello Visitor ヾ(＾ ∇ ＾).
 
 I am **Kiran**. Born and raised in Mumbai, I spent my summers at my grandparents’ home in Konkan before moving to Dublin for a while. Different places, but one thing connects them all: the coast.
 Somewhere during playing in the sand and crag hunting, I became interested in how people live with their environments, share natural resources and respond to environmental change. That curiosity has gradually drawn me towards environmental governance, biodiversity and community resilience.
