@@ -1,16 +1,14 @@
-# Hello, Visitor (and hopefully, future PhD supervisor)! ヾ(＾ ∇ ＾)
+# Hello there! ヾ(＾ ∇ ＾)
 
 I'm Kiran! 👩🏻
 
 Born and raised in Mumbai, I spent my summers at my grandparents’ home in Konkan before moving to Dublin for a while. Different places, different memories, but one thing connects them all: the coast. 🌊🏝️
 
-*Cue Moana singing, “See the line where the sky meets the sea? It calls me.”* 🎶
-
 Maybe it started with playing in the sand and hunting for crabs (or *crab hunting*, as I like to call it), but I've always been curious about the world around me. Over time, that curiosity grew into bigger questions: How do people share natural resources? Who gets to decide how they're used? And how do communities live with and adapt to environmental change?
 
-These days, those questions are drawing me towards environmental governance, biodiversity and community resilience.
+These days, those questions are drawing me towards environmental governance, biodiversity and community resilience, particularly in coastal regions where environmental change and community livelihoods are deeply intertwined.
 
-### 🌼 A little about me
+### 🌱 A bit about me
 
 I studied Mechanical Engineering, moved into project management, and later pursued Business Management. Along the way, I found myself increasingly drawn to sustainability, biodiversity and climate resilience.
 
@@ -24,15 +22,27 @@ I'm currently exploring **PhD opportunities** in:
 - 🌊 Coastal ecosystems and biodiversity
 - 🌦️ Climate adaptation and community resilience
 
-I'm especially interested in how environmental change affects communities, how local knowledge can shape decisions, and how we can better understand the relationship between people and the places they call home.
+### ⁉️ Questions I keep circling back to
 
-### 💻 Things I'm learning
+- How are shared natural resources governed in coastal regions?
+- How do environmental regulations affect local communities and livelihoods?
+- What can coastal communities teach us about resilience and adaptation?
+- How can local ecological knowledge contribute to environmental decision making?
+
+These questions are still evolving, but they're increasingly shaping the research directions I'm interested in pursuing through doctoral study.
+
+### 🌼 Current Projects
+
+- **Wildflowers of Konkan** - building a visual archive of the region's floral diversity through photography and field observations.
+- **Jalskasham** - exploring community-led approaches to water conservation and environmental stewardship.
+- **UNITAR Women's Leadership in Tsunami based Disaster Risk Reduction 2026** - learning about community resilience, disaster preparedness and the role of women in disaster risk reduction.
+
+### 💻 Skills I'm Developing
 
 My curiosity doesn't stop at environmental research. I'm also learning new tools that could help me explore these questions from different angles.
 
-- **HTML & CSS** — building and experimenting with my own portfolio website.
-- **GIS** — learning how to explore places, landscapes and environmental change through maps.
-- **Python** — developing my coding skills and exploring how data can help answer environmental questions.
+- **HTML & CSS** : building and experimenting with my own portfolio website.
+- **GIS** : learning how to explore places, landscapes and environmental change through maps.
 
 I'm still at the learning stage with these tools, but that's part of the fun: figuring things out, making mistakes and gradually getting better.
 
@@ -45,12 +55,12 @@ A little collection of books, talks and ideas I'm exploring at the moment:
 - 🎥 [Mongabay: Sand mining, environmental change and community impacts](https://youtu.be/q9wQ-Th35Mg)
 - 🎥 [Maarten van Aalst: Climate resilience and adaptation](https://youtu.be/uj-xQENGS9E)
 
-I'll be changing this list every month as I discover new things, follow interesting questions and find ideas worth thinking about a little longer.
 
-### 🔗 Find me around the web
+### 🔗 My corner of internet
 
 - 🌿 [My portfolio](https://kiranvargaonkar.github.io/)
 - 🌼 [Wildflowers of Konkan](https://wildflowersofkonkan.my.canva.site/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kiranvargaonkar/)
+- ✍️ [Substack](https://substack.com/@badaltahavaman)
 
 Thanks for wandering into my corner of the internet! If you're interested in similar questions, enjoy a good train journey, or have a favourite wildflower to recommend, I'd love to hear from you. 🌼
