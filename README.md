@@ -31,7 +31,7 @@ I'm currently exploring **PhD opportunities** in:
 
 These questions are still evolving, but they're increasingly shaping the research directions I'm interested in pursuing through doctoral study.
 
-### 🌼 Current Projects
+### 🌼 Current Projects and learning
 
 - **Wildflowers of Konkan** - building a visual archive of the region's floral diversity through photography and field observations.
 - **Jalskasham** - exploring community-led approaches to water conservation and environmental stewardship.
